@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Rounded Warm Ivory Background -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#FAF6EF" stroke="#D4C7B4" stroke-width="2.5" />
+
+  <!-- Subtle Sparkles -->
+  <path d="M13 15 L14.4 18.2 L17.6 19.6 L14.4 21 L13 24.2 L11.6 21 L8.4 19.6 L11.6 18.2 Z" fill="#D99B26" />
+  <path d="M51 13 L52 15.3 L54.3 16.3 L52 17.3 L51 19.6 L50 17.3 L47.7 16.3 L50 15.3 Z" fill="#D99B26" />
+
+  <!-- Muted Sage Green Leaves -->
+  <path d="M32 39 C26 37 19 31 18 25 C24 25 29 29 32 35 Z" fill="#4F6855" stroke="#2B211C" stroke-width="1.4" stroke-linejoin="round" />
+  <path d="M32 39 C38 37 45 31 46 25 C40 25 35 29 32 35 Z" fill="#4F6855" stroke="#2B211C" stroke-width="1.4" stroke-linejoin="round" />
+
+  <!-- Sunflower Petals (Simplified & Bold for 16px/32px Clarity) -->
+  <g transform="translate(32 23)">
+    <ellipse cx="0" cy="-10" rx="3" ry="6.2" fill="#E8AC2E" stroke="#2B211C" stroke-width="1" />
+    <ellipse cx="0" cy="10" rx="3" ry="6.2" fill="#E8AC2E" stroke="#2B211C" stroke-width="1" />
+    <ellipse cx="-10" cy="0" rx="6.2" ry="3" fill="#E8AC2E" stroke="#2B211C" stroke-width="1" />
+    <ellipse cx="10" cy="0" rx="6.2" ry="3" fill="#E8AC2E" stroke="#2B211C" stroke-width="1" />
+    <ellipse cx="0" cy="-10" rx="3" ry="6.2" transform="rotate(45)" fill="#F0BD49" stroke="#2B211C" stroke-width="1" />
+    <ellipse cx="0" cy="-10" rx="3" ry="6.2" transform="rotate(135)" fill="#F0BD49" stroke="#2B211C" stroke-width="1" />
+    <ellipse cx="0" cy="-10" rx="3" ry="6.2" transform="rotate(225)" fill="#F0BD49" stroke="#2B211C" stroke-width="1" />
+    <ellipse cx="0" cy="-10" rx="3" ry="6.2" transform="rotate(315)" fill="#F0BD49" stroke="#2B211C" stroke-width="1" />
+    <!-- Earthy Brown Sunflower Center -->
+    <circle cx="0" cy="0" r="6.4" fill="#5C3D2E" stroke="#2B211C" stroke-width="1.4" />
+    <circle cx="0" cy="0" r="2.8" fill="#3B261C" />
+  </g>
+
+  <!-- Stem -->
+  <path d="M32 30 V46" stroke="#4F6855" stroke-width="2.4" stroke-linecap="round" />
+
+  <!-- Open Personal Diary (Earthy Brown Cover + Warm Ivory Pages) -->
+  <path d="M10 38 L13 51 L32 53.5 L51 51 L54 38 L32 41 Z" fill="#5C4B42" stroke="#2B211C" stroke-width="1.8" stroke-linejoin="round" />
+  <path d="M13.5 36.5 C19.5 35 26.5 36 32 39.5 L32 51 C26 48 19.5 47.5 14.5 48.5 Z" fill="#FFFDF8" stroke="#2B211C" stroke-width="1.6" stroke-linejoin="round" />
+  <path d="M50.5 36.5 C44.5 35 37.5 36 32 39.5 L32 51 C38 48 44.5 47.5 49.5 48.5 Z" fill="#FFFDF8" stroke="#2B211C" stroke-width="1.6" stroke-linejoin="round" />
+  <!-- Subtle Page Lines -->
+  <path d="M17.5 41.5 C21.5 41 25.5 41.5 28.5 43" stroke="#CDBEAA" stroke-width="1.2" stroke-linecap="round" />
+  <path d="M18 45 C22 44.5 25.5 45 28.5 46.2" stroke="#CDBEAA" stroke-width="1.2" stroke-linecap="round" />
+  <path d="M46.5 41.5 C42.5 41 38.5 41.5 35.5 43" stroke="#CDBEAA" stroke-width="1.2" stroke-linecap="round" />
+  <path d="M46 45 C42 44.5 38.5 45 35.5 46.2" stroke="#CDBEAA" stroke-width="1.2" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,8 @@
+{
+  "name": "मधुच्या जाणीवा — Madhuchya Janiva",
+  "description": "मनातलं, माणसांसाठी, प्रेमासाठी आणि आयुष्याबद्दलच्या कृतज्ञतेसाठी... A personal Marathi writing and storytelling journal by माधुरी.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
